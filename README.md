@@ -9,3 +9,6 @@ To Run the code you must have all the dependencies installed
 - numpy
 - pygame
 - matplotlib
+
+After that run the process_image.py file .
+Then just run the app.py file and it will work.
