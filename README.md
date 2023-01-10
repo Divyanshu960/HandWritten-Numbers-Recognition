@@ -2,7 +2,7 @@
 An Image processing based real time recognition 
 mnist dataset
 To Run the code you must have all the dependencies installed
- 
+  
 ## Libraries
 - tensorflow
 - scipy
