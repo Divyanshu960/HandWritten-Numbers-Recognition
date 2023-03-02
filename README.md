@@ -8,7 +8,7 @@ To Run the code you must have all the dependencies installed
 - scipy
 - numpy
 - pygame
-- matplotlib
+- matplotlib 
 
 After that run the process_image.py file.
 
