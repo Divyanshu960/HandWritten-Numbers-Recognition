@@ -5,7 +5,7 @@ from scipy import ndimage
 import math
 from keras.models import load_model
 
-
+  
 # loading pre trained model
 model = load_model("C:\\Users\\DESKTOP\\Desktop\\MiniProjectSEM4\\Project\\cnn_model\\digit_classifier.h5")
 
