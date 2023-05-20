@@ -12,7 +12,7 @@ model = load_model("C:\\Users\\DESKTOP\\Desktop\\MiniProjectSEM4\\Project\\cnn_m
 def predict_digit(img):
     test_image = img.reshape(-1,28,28,1)
     return np.argmax(model.predict(test_image))
-
+  
 
 #pitting label
 def put_label(t_img,label,x,y):
