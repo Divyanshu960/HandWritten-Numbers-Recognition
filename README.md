@@ -31,6 +31,7 @@ To Run the code you must have all the dependencies installed
 - matplotlib 
   
 After that run the process_image.py file.
+Thank you
 
 Then just run the app.py file and it will work.
 
